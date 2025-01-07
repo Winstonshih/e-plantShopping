@@ -116,7 +116,7 @@ function ProductList() {
                     image: "https://cdn.pixabay.com/photo/2012/04/26/21/51/flowerpot-43270_1280.jpg",
                     description: "Known for their insect-repelling properties while adding a pleasant scent.",
                     cost: "$20"
-                },git remote add origin
+                },
                 {
                     name: "Basil",
                     image: "https://cdn.pixabay.com/photo/2016/07/24/20/48/tulsi-1539181_1280.jpg",
